@@ -1,6 +1,6 @@
 weblogic_restart
 ================
-
+s
 linux上weblogic重启脚本
 
 
